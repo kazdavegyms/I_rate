@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.fire.fire.postandcommenttutorial">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="iRate"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity
+            android:name="com.example.fire.irate.splashScreen.SplashScreen"
+            android:label="iRate"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.fire.irate.ui.activities.LoginActivity"></activity>
+        <activity android:name="com.example.fire.irate.ui.activities.RegisterActivity" />
+        <activity android:name="com.example.fire.irate.ui.activities.PostActivity2" />
+        <activity android:name="com.example.fire.irate.ui.activities.MainActivity" />
+        <activity android:name="com.example.fire.irate.ui.activities.RegistrationActivity" />
+        <activity android:name="com.example.fire.irate.ui.activities.UserProfile"></activity>
+        <activity android:name="com.example.fire.irate.ui.activities.UpdatePassword"></activity>
+    </application>
+
+</manifest>

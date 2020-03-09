@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "282878278123",
+    "firebase_url": "https://commentpost-d3f81.firebaseio.com",
+    "project_id": "commentpost-d3f81",
+    "storage_bucket": "commentpost-d3f81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282878278123:android:44b3b2e5a94eeda4",
+        "android_client_info": {
+          "package_name": "com.fire.fire.postandcommenttutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282878278123-lrh99fboupoujekuro2hvfohl0p7f7bt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fire.fire.postandcommenttutorial",
+            "certificate_hash": "8702f0fe94d52764be5c3eac3e4a3ebfc20385d7"
+          }
+        },
+        {
+          "client_id": "282878278123-8o1t2od84r1rm6e7f2vlj9vhtt8f20pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6TyAQql_LjtryAwt_JxBgo0cbj2bOURM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282878278123-8o1t2od84r1rm6e7f2vlj9vhtt8f20pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
